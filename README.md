@@ -68,15 +68,15 @@ src/
 
 ## 🌍 Deployment
 Deployed live at:  
-👉 [**https://your-netlify-link.netlify.app**](https://your-netlify-link.netlify.app)  
+👉 (https://8vgtts-5173.csb.app/)  
 
 Repo hosted at:  
-👉 [**GitHub Repo**](https://github.com/YOUR_USERNAME/recipe-ideas-app)  
+👉 [**GitHub Repo**](https://github.com/Uday061103/Recipe-Idea-App)  
 
 ---
 
 ## 🎥 Video Demonstration
-👉 [**Video Link (Google Drive / YouTube)**](https://your-video-link.com)  
+👉 [**Video Link (Google Drive / YouTube)**](https://drive.google.com/file/d/1Ndf5w-2R17y3lJEgWn3F3JO3WHNtG2qK/view?usp=sharing)  
 
 ---
 
@@ -90,7 +90,7 @@ I used ChatGPT to:
 
 Then I customized, structured, and deployed the app myself.  
 
-👉 Full ChatGPT conversation: [**Link**](your-chatgpt-conversation-link)  
+👉 Full ChatGPT conversation: [**Link**](https://chatgpt.com/share/68b87e90-9f58-8005-9393-dd4e64c958c8)  
 
 ---
 
